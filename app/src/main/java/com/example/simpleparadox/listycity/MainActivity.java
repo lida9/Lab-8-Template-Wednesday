@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public int plusOne(int x) {
-        return x+1;
+        return x;
     }
 
 
